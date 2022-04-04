@@ -7,6 +7,7 @@ for i in range(num):
     
 for i in list1:
     if i % 2 == 0:
+        ksdjfhksjdfhj
         countEven += 1
     elif i % 2 != 0:
         countOdd += 1
